@@ -7,6 +7,6 @@ Para aprender a subir desde local un repositorio con git
 Entre en código encontrarás un ejemplo de php como este
 ```
 <?php
-php.info();
+ php.info();
 ?>
 ```
