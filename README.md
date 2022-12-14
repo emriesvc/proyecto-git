@@ -1,4 +1,4 @@
-# proyecto-git
+# proyecto-git de los Videos
 Para aprender a subir desde local un repositorio con git 
 
 ## Introducción
